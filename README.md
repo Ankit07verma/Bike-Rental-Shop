@@ -1,4 +1,4 @@
-**🚲 Bike Rental Shop — SQL Case Study**
+#**🚲 Bike Rental Shop — SQL Case Study**
 
 📘 Project Overview
 
