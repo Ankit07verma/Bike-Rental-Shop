@@ -1,6 +1,6 @@
-#**🚲 Bike Rental Shop — SQL Case Study**
+# **🚲 Bike Rental Shop — SQL Case Study**
 
-📘 Project Overview
+# **📘 Project Overview**
 
 This project simulates a real-world bike rental business, analyzing its performance through SQL queries.
 It focuses on inventory insights, customer behavior, pricing strategies, and revenue analytics, helping the shop manager, Emily, make data-driven decisions.
