@@ -1,4 +1,5 @@
-*🚲 Bike Rental Shop — SQL Case Study*
+**🚲 Bike Rental Shop — SQL Case Study**
+
 📘 Project Overview
 
 This project simulates a real-world bike rental business, analyzing its performance through SQL queries.
